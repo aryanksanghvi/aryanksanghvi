@@ -1,3 +1,4 @@
+[![An image of @aryanksanghvi's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/aryanksanghvi)](https://holopin.io/@aryanksanghvi)
 # 💫 About Me:
 🔭 I’m currently working on Web Dev Projects<br><br>🌱 I’m currently learning Node.JS, AWS, React<br><br>👯 I’m looking to collaborate on Hacktoberfest 2023<br><br>👨‍💻 All of my projects are available at https://github.com/aryanksanghvi<br><br>📫 How to reach me aryanksanghvi@gmail.com<br><br>📄 Know about my experiences https://1drv.ms/b/s!Ap5W6HJs93V7gbhqYIIYXHee-IKlhg?e=EbUFtQ
 
