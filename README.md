@@ -1,4 +1,4 @@
-![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)
+[![An image of @aryanksanghvi's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/aryanksanghvi)](https://holopin.io/@aryanksanghvi)
 <h1 align="center">Hi 👋, I'm Aryan K Sanghvi</h1>
 <h3 align="center">A passionate developer & photographer from India</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aryanksanghvi&label=Profile%20views&color=0e75b6&style=flat" alt="aryanksanghvi" /> </p>
